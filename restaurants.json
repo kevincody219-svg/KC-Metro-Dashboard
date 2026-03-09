@@ -1,0 +1,781 @@
+{
+  "restaurants": {
+    "clt-uptown": [
+      {
+        "name": "Albertine",
+        "cuisine": "French",
+        "price": "$$$"
+      },
+      {
+        "name": "Sea Level NC",
+        "cuisine": "Seafood",
+        "price": "$$"
+      },
+      {
+        "name": "Fin & Fino",
+        "cuisine": "Seafood & Cocktails",
+        "price": "$$$"
+      },
+      {
+        "name": "Church & Union",
+        "cuisine": "New American",
+        "price": "$$$"
+      },
+      {
+        "name": "Haymaker",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "Dogwood",
+        "cuisine": "Southern",
+        "price": "$$$"
+      }
+    ],
+    "clt-south-end": [
+      {
+        "name": "Yunta",
+        "cuisine": "Peruvian-Japanese",
+        "price": "$$$"
+      },
+      {
+        "name": "La Lima",
+        "cuisine": "Peruvian Sandwiches",
+        "price": "$$"
+      },
+      {
+        "name": "Muraya",
+        "cuisine": "Japanese Omakase",
+        "price": "$$$$"
+      },
+      {
+        "name": "Vicente Bistro",
+        "cuisine": "Mediterranean",
+        "price": "$$$"
+      },
+      {
+        "name": "Seoul Food Meat Co.",
+        "cuisine": "Korean BBQ",
+        "price": "$$"
+      },
+      {
+        "name": "Superica",
+        "cuisine": "Tex-Mex",
+        "price": "$$"
+      }
+    ],
+    "clt-noda": [
+      {
+        "name": "Haberdish",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "ESO Artisanal Pasta",
+        "cuisine": "Italian",
+        "price": "$$"
+      },
+      {
+        "name": "Salud Cerveceria",
+        "cuisine": "Latin Brewery",
+        "price": "$"
+      },
+      {
+        "name": "The Goodyear House",
+        "cuisine": "Southern",
+        "price": "$$"
+      }
+    ],
+    "clt-plaza-midwood": [
+      {
+        "name": "Soul Gastrolounge",
+        "cuisine": "Tapas & Sushi",
+        "price": "$$"
+      },
+      {
+        "name": "Midwood Smokehouse",
+        "cuisine": "BBQ",
+        "price": "$$"
+      },
+      {
+        "name": "Lang Van",
+        "cuisine": "Vietnamese",
+        "price": "$"
+      },
+      {
+        "name": "Zada Jane's",
+        "cuisine": "Brunch",
+        "price": "$"
+      }
+    ],
+    "clt-dilworth": [
+      {
+        "name": "Dilworth Tasting Room",
+        "cuisine": "Wine Bar",
+        "price": "$$"
+      },
+      {
+        "name": "300 East",
+        "cuisine": "American",
+        "price": "$$"
+      },
+      {
+        "name": "Inizio Pizza Napoletana",
+        "cuisine": "Neapolitan Pizza",
+        "price": "$$"
+      }
+    ],
+    "clt-myers-park": [
+      {
+        "name": "Rada",
+        "cuisine": "Seasonal American",
+        "price": "$$$$"
+      },
+      {
+        "name": "Barrington's",
+        "cuisine": "New American",
+        "price": "$$$$"
+      },
+      {
+        "name": "Fig Tree Restaurant",
+        "cuisine": "Mediterranean",
+        "price": "$$$"
+      },
+      {
+        "name": "Aqua e Vino",
+        "cuisine": "Italian",
+        "price": "$$$"
+      }
+    ],
+    "clt-elizabeth": [
+      {
+        "name": "Customshop",
+        "cuisine": "New American",
+        "price": "$$$"
+      },
+      {
+        "name": "Hawkers Asian Street Fare",
+        "cuisine": "Asian Street Food",
+        "price": "$$"
+      },
+      {
+        "name": "Earl's Grocery",
+        "cuisine": "Cafe & Market",
+        "price": "$$"
+      }
+    ],
+    "clt-montford": [
+      {
+        "name": "Yafo Kitchen",
+        "cuisine": "Middle Eastern",
+        "price": "$$"
+      },
+      {
+        "name": "Futo Buta",
+        "cuisine": "Ramen",
+        "price": "$$"
+      }
+    ],
+    "clt-wesley-heights": [
+      {
+        "name": "Leah & Louise",
+        "cuisine": "Modern Juke Joint",
+        "price": "$$$"
+      },
+      {
+        "name": "Counter-",
+        "cuisine": "Tasting Menu (Michelin Star)",
+        "price": "$$$$"
+      },
+      {
+        "name": "Resident Culture Brewing",
+        "cuisine": "Brewery",
+        "price": "$"
+      }
+    ],
+    "clt-eastway-shamrock": [
+      {
+        "name": "Lang Van",
+        "cuisine": "Vietnamese (Michelin Bib Gourmand)",
+        "price": "$"
+      },
+      {
+        "name": "Legume",
+        "cuisine": "Haitian",
+        "price": "$$"
+      },
+      {
+        "name": "Tacos El Nevado",
+        "cuisine": "Mexican",
+        "price": "$"
+      }
+    ],
+    "clt-southpark": [
+      {
+        "name": "Omakase Experience",
+        "cuisine": "Japanese Omakase",
+        "price": "$$$$"
+      },
+      {
+        "name": "Rooster's Wood-Fired Kitchen",
+        "cuisine": "Southern",
+        "price": "$$$"
+      },
+      {
+        "name": "Steak 48",
+        "cuisine": "Steakhouse",
+        "price": "$$$$"
+      },
+      {
+        "name": "BLT Steak",
+        "cuisine": "Steakhouse",
+        "price": "$$$$"
+      }
+    ],
+    "clt-university": [
+      {
+        "name": "Chuy's",
+        "cuisine": "Tex-Mex",
+        "price": "$$"
+      }
+    ],
+    "clt-ballantyne": [
+      {
+        "name": "Dressler's",
+        "cuisine": "Fine Dining",
+        "price": "$$$"
+      },
+      {
+        "name": "Postino",
+        "cuisine": "Wine Bar",
+        "price": "$$"
+      },
+      {
+        "name": "Bricktop's",
+        "cuisine": "American",
+        "price": "$$$"
+      }
+    ],
+    "clt-lake-norman": [
+      {
+        "name": "Kindred",
+        "cuisine": "Southern",
+        "price": "$$$"
+      },
+      {
+        "name": "Hello, Sailor",
+        "cuisine": "Seafood",
+        "price": "$$"
+      },
+      {
+        "name": "Toast Cafe",
+        "cuisine": "Brunch",
+        "price": "$$"
+      },
+      {
+        "name": "The Bottle Tree",
+        "cuisine": "American",
+        "price": "$$"
+      }
+    ],
+    "clt-west-lake-norman": [
+      {
+        "name": "North Harbor Club",
+        "cuisine": "Lakefront Dining",
+        "price": "$$$"
+      },
+      {
+        "name": "The Pier at Lake Norman",
+        "cuisine": "American",
+        "price": "$$"
+      }
+    ],
+    "clt-north-iredell": [
+      {
+        "name": "Alino Pizzeria",
+        "cuisine": "Neapolitan Pizza",
+        "price": "$$"
+      },
+      {
+        "name": "Epic Chophouse",
+        "cuisine": "Steakhouse",
+        "price": "$$$$"
+      },
+      {
+        "name": "The Soda Shop",
+        "cuisine": "American Diner",
+        "price": "$"
+      }
+    ],
+    "clt-cabarrus": [
+      {
+        "name": "The Smoke Pit",
+        "cuisine": "BBQ",
+        "price": "$$"
+      },
+      {
+        "name": "Old Town Stock House",
+        "cuisine": "American",
+        "price": "$$"
+      }
+    ],
+    "clt-matthews-mint-hill": [
+      {
+        "name": "Sola Coffee Cafe",
+        "cuisine": "Coffee & Brunch",
+        "price": "$"
+      },
+      {
+        "name": "Bistro La Bon",
+        "cuisine": "French",
+        "price": "$$$"
+      }
+    ],
+    "clt-indian-trail-stallings": [
+      {
+        "name": "Heritage Food & Drink",
+        "cuisine": "Southern",
+        "price": "$$"
+      }
+    ],
+    "clt-gastonia": [
+      {
+        "name": "Webb Custom Kitchen",
+        "cuisine": "New American",
+        "price": "$$$"
+      },
+      {
+        "name": "Nellie's Southern Kitchen",
+        "cuisine": "Southern",
+        "price": "$$"
+      }
+    ],
+    "clt-belmont-mt-holly": [
+      {
+        "name": "Stool Pigeon",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "Nellie's Southern Kitchen Belmont",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "String Bean Fresh Market",
+        "cuisine": "Cafe",
+        "price": "$"
+      }
+    ],
+    "clt-lake-wylie": [
+      {
+        "name": "Riverbank Bar & Grill",
+        "cuisine": "American",
+        "price": "$$"
+      },
+      {
+        "name": "Papa Doc's Shore Club",
+        "cuisine": "Lakeside Dining",
+        "price": "$$"
+      }
+    ],
+    "clt-fort-mill": [
+      {
+        "name": "The Pump House",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "Flipside Restaurant",
+        "cuisine": "American",
+        "price": "$$"
+      },
+      {
+        "name": "Ai Sushi Sake Grill",
+        "cuisine": "Japanese",
+        "price": "$$$"
+      }
+    ],
+    "ral-downtown": [
+      {
+        "name": "Poole's Diner",
+        "cuisine": "New American",
+        "price": "$$$"
+      },
+      {
+        "name": "Beasley's Chicken + Honey",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "St. Roch Fine Oysters + Bar",
+        "cuisine": "Oyster Bar",
+        "price": "$$$"
+      },
+      {
+        "name": "Amrut",
+        "cuisine": "Multi-Regional Indian",
+        "price": "$$"
+      },
+      {
+        "name": "The Pit Authentic BBQ",
+        "cuisine": "BBQ",
+        "price": "$$"
+      }
+    ],
+    "ral-north-hills": [
+      {
+        "name": "Vivace",
+        "cuisine": "Italian",
+        "price": "$$$"
+      },
+      {
+        "name": "Sixty Vines",
+        "cuisine": "Wine Bar",
+        "price": "$$$"
+      },
+      {
+        "name": "Tamasha Modern Indian",
+        "cuisine": "Indian",
+        "price": "$$$"
+      },
+      {
+        "name": "Cowbar",
+        "cuisine": "Burgers",
+        "price": "$$"
+      }
+    ],
+    "ral-five-points": [
+      {
+        "name": "Ajja",
+        "cuisine": "Eastern Mediterranean",
+        "price": "$$$"
+      },
+      {
+        "name": "Lilly's Pizza",
+        "cuisine": "Pizza",
+        "price": "$$"
+      },
+      {
+        "name": "NoFo @ the Pig",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "J. Betski's",
+        "cuisine": "German-Czech",
+        "price": "$$"
+      }
+    ],
+    "ral-oakwood-mordecai": [
+      {
+        "name": "Stanbury",
+        "cuisine": "Seasonal American",
+        "price": "$$$"
+      },
+      {
+        "name": "Crawford and Son",
+        "cuisine": "Modern Southern",
+        "price": "$$$"
+      },
+      {
+        "name": "Standard Beer + Food",
+        "cuisine": "Gastropub",
+        "price": "$$"
+      },
+      {
+        "name": "Death & Taxes",
+        "cuisine": "Wood-Fired",
+        "price": "$$$"
+      }
+    ],
+    "ral-cameron-village": [
+      {
+        "name": "Irregardless Cafe",
+        "cuisine": "New American",
+        "price": "$$"
+      },
+      {
+        "name": "Barcelona Wine Bar",
+        "cuisine": "Spanish Tapas",
+        "price": "$$"
+      }
+    ],
+    "ral-glenwood-south": [
+      {
+        "name": "Brewery Bhavana",
+        "cuisine": "Asian Fusion Brewery",
+        "price": "$$"
+      },
+      {
+        "name": "Garland",
+        "cuisine": "Indian-Southern",
+        "price": "$$"
+      },
+      {
+        "name": "Dashi",
+        "cuisine": "Japanese Ramen",
+        "price": "$$"
+      },
+      {
+        "name": "Madre",
+        "cuisine": "Spanish & European",
+        "price": "$$$"
+      }
+    ],
+    "ral-boylan-heights": [
+      {
+        "name": "Jolie",
+        "cuisine": "French",
+        "price": "$$$"
+      },
+      {
+        "name": "Fiction Kitchen",
+        "cuisine": "Vegan",
+        "price": "$$"
+      },
+      {
+        "name": "Bittersweet",
+        "cuisine": "Cocktail & Dessert Bar",
+        "price": "$$"
+      }
+    ],
+    "ral-warehouse": [
+      {
+        "name": "Wye Hill Kitchen",
+        "cuisine": "American",
+        "price": "$$"
+      },
+      {
+        "name": "Crank Arm Brewing",
+        "cuisine": "Brewery",
+        "price": "$"
+      }
+    ],
+    "ral-cary": [
+      {
+        "name": "Herons",
+        "cuisine": "Fine Dining",
+        "price": "$$$$"
+      },
+      {
+        "name": "La Farm Bakery",
+        "cuisine": "French Bakery",
+        "price": "$$"
+      },
+      {
+        "name": "Saap",
+        "cuisine": "Laotian",
+        "price": "$$"
+      },
+      {
+        "name": "Kababish Cafe",
+        "cuisine": "Indian & Pakistani",
+        "price": "$"
+      }
+    ],
+    "ral-apex": [
+      {
+        "name": "Anna's Pizzeria",
+        "cuisine": "Italian",
+        "price": "$$"
+      },
+      {
+        "name": "Scratch Kitchen",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "Peak City Pig",
+        "cuisine": "BBQ",
+        "price": "$"
+      }
+    ],
+    "ral-holly-springs": [
+      {
+        "name": "Mason Jar Tavern",
+        "cuisine": "American",
+        "price": "$$"
+      },
+      {
+        "name": "Aviator Brewing",
+        "cuisine": "Brewery",
+        "price": "$"
+      }
+    ],
+    "ral-wake-forest": [
+      {
+        "name": "Over the Falls",
+        "cuisine": "American",
+        "price": "$$"
+      },
+      {
+        "name": "White Street Brewing",
+        "cuisine": "Brewery",
+        "price": "$"
+      }
+    ],
+    "ral-garner": [
+      {
+        "name": "42nd Street Oyster Bar",
+        "cuisine": "Seafood",
+        "price": "$$"
+      }
+    ],
+    "ral-knightdale-wendell": [
+      {
+        "name": "Trophy Brewing Wendell",
+        "cuisine": "Brewery & Pizza",
+        "price": "$$"
+      }
+    ],
+    "ral-clayton": [
+      {
+        "name": "Manning's on Main",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "First Street Tavern",
+        "cuisine": "American",
+        "price": "$$"
+      }
+    ],
+    "ral-durham": [
+      {
+        "name": "Mateo Bar de Tapas",
+        "cuisine": "Spanish Tapas",
+        "price": "$$$"
+      },
+      {
+        "name": "M Sushi",
+        "cuisine": "Omakase",
+        "price": "$$$$"
+      },
+      {
+        "name": "Dame's Chicken & Waffles",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "Pizzeria Toro",
+        "cuisine": "Neapolitan Pizza",
+        "price": "$$"
+      },
+      {
+        "name": "Geer Street Garden",
+        "cuisine": "American",
+        "price": "$$"
+      },
+      {
+        "name": "Mothers & Sons",
+        "cuisine": "Italian",
+        "price": "$$$"
+      }
+    ],
+    "ral-harnett": [
+      {
+        "name": "Broad Street Deli",
+        "cuisine": "Deli",
+        "price": "$"
+      },
+      {
+        "name": "Sherry's Bakery",
+        "cuisine": "Bakery",
+        "price": "$"
+      }
+    ],
+    "ral-lee": [
+      {
+        "name": "San Felipe Mexican",
+        "cuisine": "Mexican",
+        "price": "$"
+      },
+      {
+        "name": "Wilkinson's Sauce Co.",
+        "cuisine": "BBQ",
+        "price": "$$"
+      }
+    ],
+    "ral-johnston-south": [
+      {
+        "name": "Gilded Pear",
+        "cuisine": "American",
+        "price": "$$"
+      },
+      {
+        "name": "SoDoSoPa Coffee",
+        "cuisine": "Coffee",
+        "price": "$"
+      }
+    ],
+    "clt-north-charlotte": [
+      {
+        "name": "Protagonist Clubhouse",
+        "cuisine": "Pizza & Beer",
+        "price": "$$"
+      },
+      {
+        "name": "Tip Top Daily Market",
+        "cuisine": "Cafe & Market",
+        "price": "$"
+      }
+    ],
+    "clt-monroe": [
+      {
+        "name": "Main Street Grill",
+        "cuisine": "American",
+        "price": "$$"
+      },
+      {
+        "name": "Waxhaw Creamery & Bake Shop",
+        "cuisine": "Bakery",
+        "price": "$"
+      }
+    ],
+    "ral-rtp": [
+      {
+        "name": "The Frontier at RTP",
+        "cuisine": "Food Hall",
+        "price": "$$"
+      },
+      {
+        "name": "Mez Contemporary Mexican",
+        "cuisine": "Mexican",
+        "price": "$$"
+      }
+    ],
+    "ral-chapel-hill": [
+      {
+        "name": "Lantern",
+        "cuisine": "Asian",
+        "price": "$$$"
+      },
+      {
+        "name": "Al's Burger Shack",
+        "cuisine": "Burgers",
+        "price": "$"
+      },
+      {
+        "name": "Spotted Dog",
+        "cuisine": "Southern",
+        "price": "$$"
+      },
+      {
+        "name": "Hawthorne & Wood",
+        "cuisine": "New American",
+        "price": "$$$"
+      },
+      {
+        "name": "Vimala's Curryblossom Cafe",
+        "cuisine": "Indian",
+        "price": "$$"
+      },
+      {
+        "name": "Acme Food & Beverage",
+        "cuisine": "Southern",
+        "price": "$$"
+      }
+    ]
+  }
+}
